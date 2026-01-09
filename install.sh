@@ -3,7 +3,7 @@
 set -e
 
 echo "================================"
-echo "   StreamYtbox Quick Installer  "
+echo "   StreamFlow Quick Installer  "
 echo "================================"
 echo
 
@@ -22,8 +22,8 @@ echo "🎬 Installing FFmpeg dan Git..."
 sudo apt install ffmpeg git -y
 
 echo "📥 Clone repository..."
-git clone https://github.com/bangtutorial/streamytbox
-cd streamytbox
+git clone https://github.com/bangtutorial/streamflow
+cd streamflow
 
 echo "⚙️ Installing dependencies..."
 npm install
@@ -40,8 +40,8 @@ sudo ufw --force enable
 echo "🚀 Installing PM2..."
 sudo npm install -g pm2
 
-echo "▶️ Starting StreamYtbox..."
-pm2 start app.js --name streamytbox
+echo "▶️ Starting StreamFlow..."
+pm2 start app.js --name streamflow
 pm2 save
 
 echo

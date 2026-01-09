@@ -1,5 +1,5 @@
 {
-  "name": "streamytbox",
+  "name": "streamflow",
   "version": "2.1.0",
   "description": "Cloud streaming solution with FFmpeg",
   "main": "app.js",

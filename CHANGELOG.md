@@ -1,6 +1,6 @@
 # Changelog
 
-Semua perubahan penting pada StreamYtbox akan didokumentasikan di file ini.
+Semua perubahan penting pada StreamFlow akan didokumentasikan di file ini.
 
 ---
 

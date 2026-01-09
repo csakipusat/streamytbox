@@ -1,6 +1,6 @@
-# Contributing to StreamYtbox
+# Contributing to StreamFlow
 
-Terima kasih sudah tertarik untuk berkontribusi ke projek StreamYtbox!
+Terima kasih sudah tertarik untuk berkontribusi ke projek StreamFlow!
 
 ## Cara Berkontribusi
 
@@ -34,7 +34,7 @@ Terima kasih sudah tertarik untuk berkontribusi ke projek StreamYtbox!
 
 ## Pertanyaan?
 
-Jika ada pertanyaan, silakan buka [Issue](https://github.com/bangtutorial/streamytbox/issues) baru.
+Jika ada pertanyaan, silakan buka [Issue](https://github.com/bangtutorial/streamflow/issues) baru.
 
 ---
 Terima kasih atas kontribusinya! 🙏
